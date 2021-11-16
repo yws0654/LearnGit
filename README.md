@@ -5,6 +5,7 @@ README
 * third change
 * fourth change
 * double fifth change
+* sixth change
 
 ***
 
