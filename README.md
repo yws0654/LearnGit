@@ -1,6 +1,6 @@
 README
 
-* first change
+* first change------fix bug 101
 * second change
 * third change
 * fourth change
