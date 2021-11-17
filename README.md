@@ -11,7 +11,9 @@ README
 
 * dev first change
 * dev second change
+* dev third change
 
 ***
 
 * feature1 first change
+
