@@ -10,6 +10,7 @@ README
 ***
 
 * dev first change
+* dev second change
 
 ***
 
